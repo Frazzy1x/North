@@ -1,5 +1,5 @@
 game:GetService("StarterGui"):SetCore("SendNotification", {
 	Title = "Nemesis Reborn";
 	Text = "Nemesis Reborn Loaded successfully!";
-	Text = "Thanks For Using Nemesis Reborn";
+	Text2 = "Thanks For Using Nemesis Reborn";
 })
